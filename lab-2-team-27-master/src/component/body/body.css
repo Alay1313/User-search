@@ -1,0 +1,17 @@
+#name{
+    color: rgb(24, 26, 138);
+
+}
+
+#remove{
+    border-radius: 5px;
+    color: white;
+    font-weight: bold ;
+    background-color: rgb(238, 97, 97);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border: 2px solid red;
+    cursor: pointer;
+    margin-left: 10px;
+    padding-block: 2px;
+}
